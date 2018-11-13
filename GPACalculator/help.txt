@@ -1,0 +1,9 @@
+add [term], [subject], [course], [credit], [grade]
+
+update grade [subject], [course], [grade]
+
+delete [subject], [course]
+
+list
+list subject [subject]
+list term [term]
