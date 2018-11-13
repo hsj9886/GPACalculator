@@ -2,6 +2,7 @@
 (c) 2018 Sejung Hwang. All rights reserved
 
 ## Available Commands:
+```
 **ADD**&#9;add course to the database
 
 **UPDATE**&#9;update grade of the course
@@ -11,8 +12,10 @@
 **LIST**&#9;list courses in the database
 
 **EXIT**&#9;exit the program
+```
 
 ## Usage:
+```
 add [term], [subject], [course], [credit], [grade]
 	Ex) add FALL 2018, CS, 3114, 3, B+
 
@@ -29,3 +32,4 @@ list term [term]
 	Ex) list term FALL 2018
 
 exit
+```
