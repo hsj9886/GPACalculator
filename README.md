@@ -2,15 +2,15 @@
 (c) 2018 Sejung Hwang. All rights reserved
 
 ## Available Commands:
-**ADD**/tadd course to the database
+**ADD**	add course to the database
 
-**UPDATE**/tupdate grade of the course
+**UPDATE**	update grade of the course
 
-**DELETE**/tdelete course from the database
+**DELETE**	delete course from the database
 
-**LIST**/tlist courses in the database
+**LIST**	list courses in the database
 
-**EXIT**/texit the program
+**EXIT**	exit the program
 
 ## Usage:
 add [term], [subject], [course], [credit], [grade]
