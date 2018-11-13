@@ -3,9 +3,13 @@
 
 ## Available Commands:
 **ADD**	add course to the database
+
 **UPDATE**	update grade of the course
+
 **DELETE**	delete course from the database
+
 **LIST**	list courses in the database
+
 **EXIT**	exit the program
 
 ## Usage:
